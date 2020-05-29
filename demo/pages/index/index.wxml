@@ -1,0 +1,104 @@
+<swiper indicator-dots indicator-color="rgba(255, 255, 255 .6)" indicator-active-color="#fff" autoplay interval="3000" circular>
+  <swiper-item>
+    <image src="https://botue.github.io/86qi/uploads/slide_1.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="https://botue.github.io/86qi/uploads/slide_2.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="https://botue.github.io/86qi/uploads/slide_3.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="https://botue.github.io/86qi/uploads/slide_4.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="https://botue.github.io/86qi/uploads/slide_5.jpg"></image>
+  </swiper-item>
+</swiper>
+
+<!-- 活动标题 -->
+<view class="title">乐园活动</view>
+
+<!-- 活动列表 -->
+<view class="item">
+  <!-- 活动封面 -->
+  <!-- 相当于网页中的 a 标签，用于跳转页面 -->
+  <navigator url="">
+    <image src="https://botue.github.io/86qi/uploads/item_1.png"></image>
+  </navigator>
+  <!-- 活动信息 -->
+  <view class="info">
+    <!-- 活动名称 -->
+    <view class="name">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</view>
+    <!-- 活动其它 -->
+    <view class="extra">
+      <!-- 相当于网页中的 span 标签，属于行内元素 -->
+      <text>200人已报名</text>
+      <text>本周六开始</text>
+    </view>
+    <!-- 活动状态 -->
+    <view class="status">免费</view>
+  </view>
+</view>
+<view class="item">
+  <!-- 活动封面 -->
+  <!-- 相当于网页中的 a 标签，用于跳转页面 -->
+  <navigator url="">
+    <image src="https://botue.github.io/86qi/uploads/item_2.png"></image>
+  </navigator>
+  <!-- 活动信息 -->
+  <view class="info">
+    <!-- 活动名称 -->
+    <view class="name">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</view>
+    <!-- 活动其它 -->
+    <view class="extra">
+      <!-- 相当于网页中的 span 标签，属于行内元素 -->
+      <text>200人已报名</text>
+      <text>本周六开始</text>
+    </view>
+    <!-- 活动状态 -->
+    <view class="status">免费</view>
+  </view>
+</view>
+<view class="item">
+  <!-- 活动封面 -->
+  <!-- 相当于网页中的 a 标签，用于跳转页面 -->
+  <navigator url="">
+    <image src="https://botue.github.io/86qi/uploads/item_3.png"></image>
+  </navigator>
+  <!-- 活动信息 -->
+  <view class="info">
+    <!-- 活动名称 -->
+    <view class="name">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</view>
+    <!-- 活动其它 -->
+    <view class="extra">
+      <!-- 相当于网页中的 span 标签，属于行内元素 -->
+      <text>200人已报名</text>
+      <text>本周六开始</text>
+    </view>
+    <!-- 活动状态 -->
+    <view class="status">免费</view>
+  </view>
+</view>
+<view class="item">
+  <!-- 活动封面 -->
+  <!-- 相当于网页中的 a 标签，用于跳转页面 -->
+  <navigator url="">
+    <image src="https://botue.github.io/86qi/uploads/item_4.png"></image>
+  </navigator>
+  <!-- 活动信息 -->
+  <view class="info">
+    <!-- 活动名称 -->
+    <view class="name">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</view>
+    <!-- 活动其它 -->
+    <view class="extra">
+      <!-- 相当于网页中的 span 标签，属于行内元素 -->
+      <text>200人已报名</text>
+      <text>本周六开始</text>
+    </view>
+    <!-- 活动状态 -->
+    <view class="status">免费</view>
+  </view>
+</view>
+
+<!-- 每个页面自动会包含 page 标签，相当于网页中的 body -->

@@ -1,0 +1,7 @@
+/* pages/ticket/index.wxss */
+
+.box {
+  width: 375px;
+  height: 300rpx;
+  background-color: pink;
+}
